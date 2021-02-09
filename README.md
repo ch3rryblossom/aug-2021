@@ -1,18 +1,15 @@
-# IISER Pune Sem 5
+# IISER Pune Sem 6
 
-A Links page for Semester 5 of IISER Pune in the 'Blessed' Year of 2020
+A Links page for Semester 6 of IISER Pune
 
-Find the page here: [Link](https://adch99.github.io/iiserp-sem5)
+Website: https://thereconpilot.github.io/iiserp-sem6
+Course Data Sheet: https://docs.google.com/spreadsheets/d/1wsEatRyeX6Vx27HB3rcpKb3E7nwzWup-3u45LuiRsyA/edit?usp=sharing
 
 ## Contributing
 
-We need contributors for maintaining the data for courses and instructors. 
-
-Contribution with website is welcome too.
-
 ### Help with Maintaining Data
 
-You will be keeping the links up to date. Get in touch with us to help!
+You will be keeping the links up to date. Get in touch with us to help! Or simply update things on the sheet and let us know, and we would update the site.
 
 ### Contribute to the Site
 
@@ -26,11 +23,9 @@ Follow the standard contributing procedure.
 - Push to the branch: `git push origin my-feature-branch`
 - Submit a Pull Request
 
-Your name will be added to a Contributors list. 
-
 ## Contact Us
 
 - [Aditya Chincholi](mailto:aditya.chincholi@students.iiserpune.ac.in)
 - [Purva Parmar](mailto:purva.parmar@students.iiserpune.ac.in)
 
-Or contact us on WhatsApp, or Zulip, or Discord, or wherever you can find us.
+Or contact us on WhatsApp, or Discord, or wherever you can find us.
