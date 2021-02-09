@@ -3,7 +3,8 @@
 A Links page for Semester 6 of IISER Pune
 
 Website: https://thereconpilot.github.io/iiserp-sem6
-Course Data Sheet: https://docs.google.com/spreadsheets/d/1wsEatRyeX6Vx27HB3rcpKb3E7nwzWup-3u45LuiRsyA/edit?usp=sharing
+
+Course Data Sheet: [Sheet Link](https://docs.google.com/spreadsheets/d/1wsEatRyeX6Vx27HB3rcpKb3E7nwzWup-3u45LuiRsyA/edit?usp=sharing)
 
 ## Contributing
 
