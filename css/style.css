@@ -14,7 +14,7 @@ nav, .page-footer {
 }
 
 #s6nav {
-  border-top: 1px dashed lime;
+  border-top: 1px dashed #ccff00;
   padding-top: 5px;
 }
 
@@ -23,12 +23,12 @@ nav, .page-footer {
   #s6nav {
     margin-top: 10px;
     padding: 5px;
-    border-top: 1px solid lime;
+    border-top: 1px solid #ccff00;
   }
 }
 
 .navbar-toggler-icon {
-    color: lime;
+    color: #ccff00;
 }
 
 .home-link {
@@ -40,12 +40,12 @@ nav, .page-footer {
 }
 
 a {
-    color: lime;
+    color: #ccff00;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: black;
-    background-color: lime;
+    background-color: #ccff00;
 }
 
 hr {
@@ -88,7 +88,7 @@ button {
   .sk-cube-grid .sk-cube {
     width: 33%;
     height: 33%;
-    background-color: lime;
+    background-color: #ccff00;
     float: left;
     -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
             animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
