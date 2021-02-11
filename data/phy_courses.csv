@@ -1,8 +1,8 @@
 ,id,name,idname,classroom,meetpermalink,courseGDrive,courseDropbox,website,gmailSearchTerm,studentGDrive,email
 0,phy321,Quantum Mechanics II,PHY 321,https://classroom.google.com/u/1/c/MjcwMzkyOTM3MTI1,,,,,(PHY+321)+OR+(PHY321)+OR+Mahesh,,phy321@students.iiserpune.ac.in
 1,phy322,Statistical Mechanics,PHY 322,https://classroom.google.com/u/1/c/MjY5ODE4ODYxNzg2,,,,,(PHY+322)+OR+(PHY322)+OR+Dhar,,phy322@students.iiserpune.ac.in
-2,phy441,Quantum Information,PHY 441,https://classroom.google.com/u/1/c/MjYzMTU3NDkyNDYx,,,,,(PHY+441)+OR+(PHY441)+OR+Jain,,phy441@students.iiserpune.ac.in
+2,phy334,Astronomy and Astrophysics,PHY 334,https://classroom.google.com/u/1/c/MjY5NTg1MTg1MTEw,,,,,(PHY+334)+OR+(PHY334)+OR+Athreya,,phy334@students.iiserpune.ac.in
 3,phy342,Nonlinear Dynamics,PHY 342,https://classroom.google.com/u/1/c/MjY5NjA0MTM0NDQx,,,,,(PHY+342)+OR+(PHY342)+OR+Santhanam,,phy342@students.iiserpune.ac.in
-4,phy334,Astronomy and Astrophysics,PHY 334,https://classroom.google.com/u/1/c/MjY5NTg1MTg1MTEw,,,,,(PHY+334)+OR+(PHY334)+OR+Athreya,,phy334@students.iiserpune.ac.in
-5,phy350,Electronics II,PHY 350,,https://meet.google.com/jss-czpp-vhn ,,,,(PHY+350)+OR+(PHY350)+OR+Rapol,,phy350@students.iiserpune.ac.in
-6,phy362,Plasma Physics,PHY 362,https://classroom.google.com/u/1/c/MjY5ODM0Mjk3MjY0,,,,,(PHY+362)+OR+(PHY362)+OR+Subramanian,,phy362@students.iiserpune.ac.in
+4,phy350,Electronics II,PHY 350,,https://meet.google.com/jss-czpp-vhn ,,,,(PHY+350)+OR+(PHY350)+OR+Rapol,,phy350@students.iiserpune.ac.in
+5,phy362,Plasma Physics,PHY 362,https://classroom.google.com/u/1/c/MjY5ODM0Mjk3MjY0,,,,,(PHY+362)+OR+(PHY362)+OR+Subramanian,,phy362@students.iiserpune.ac.in
+6,phy441,Quantum Information,PHY 441,https://classroom.google.com/u/1/c/MjYzMTU3NDkyNDYx,,,,,(PHY+441)+OR+(PHY441)+OR+Jain,,phy441@students.iiserpune.ac.in
