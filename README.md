@@ -24,6 +24,11 @@ Follow the standard contributing procedure.
 - Push to the branch: `git push origin my-feature-branch`
 - Submit a Pull Request
 
+### Developing
+- Make changes in templates
+- Use the `google-sheet-api.py` to fetch data from the sheet
+- Run `python3 main.py` to generate pages
+
 ## Contact Us
 
 - [Aditya Chincholi](mailto:aditya.chincholi@students.iiserpune.ac.in)
