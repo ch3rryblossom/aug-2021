@@ -12,7 +12,7 @@ def preprocessing(csv_file):
     return df
 
 # List of departments
-deptlist = ['mth', 'phy', 'bio', 'ecs', 'hss', 'chm']
+deptlist = ['sem-3', 'mth', 'phy', 'bio', 'ecs', 'hss', 'chm']
 
 for dept in deptlist:
 

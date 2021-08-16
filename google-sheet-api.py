@@ -11,11 +11,14 @@ gc = gspread.service_account()
 #gc = gspread.service_account(filename='path/to/the/downloaded/file.json')
 
 # Open a sheet from a spreadsheet 
-sh = gc.open("Sem 6 - Course Data")
+sh = gc.open("Aug 2021 - Course Data")
 
 worksheet_list = sh.worksheets()
 
-subjects = ['mth','hss','ecs','chm','phy','bio']
+# Remove Help Info Sheet
+worksheet_list.pop(0)
+
+subjects = ['sem-3', 'mth','hss','ecs','chm','phy','bio']
 header = ['courses','instructors']
 
 for i,worksheet in enumerate(worksheet_list):
