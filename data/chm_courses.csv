@@ -1,8 +1,5 @@
 ,id,name,idname,classroom,meetpermalink,courseGDrive,courseDropbox,website,gmailSearchTerm,studentGDrive,email
-0,chm321,Organic Synthesis I,CHM 321,https://classroom.google.com/u/1/c/MTM4OTExMTE1NjU1,,,,,(CHM+311)+OR+(CHM311),https://drive.google.com/drive/u/1/folders/1O2lsCWINQ2x16wqrSyZmZfrxQaZY0Q3v?usp=sharing,chm321@students.iiserpune.ac.in
-1,chm322,Transition Metal Chemistry,CHM 322,https://classroom.google.com/u/1/c/MTUzNzA5MTU2MzA4,,,,,(CHM+312)+OR+(CHM312),,chm322@students.iiserpune.ac.in
-2,chm323,Fundamentals of Molecular Spectroscopy,CHM 323,https://classroom.google.com/u/1/c/MTUxNzA5OTMzMDcy,,,,,(CHM+320)+OR+(CHM320),,chm323@students.iiserpune.ac.in
-3,chm310,Quantum Chemistry,CHM 310,https://classroom.google.com/u/1/c/MTQzODI5NjIzMjEx,,https://drive.google.com/drive/folders/1jBehGSvzYef11soGQsnQwJAd6SUYUaBJ?usp=sharing,,,(CHM+331)+OR+(CHM331),,chm310@students.iiserpune.ac.in
-4,,,,,,,,,(CHM+332)+OR+(CHM332,https://drive.google.com/drive/u/1/folders/17vaEeNP2zFZEnfIGJ3rNQZ3WQ8Psx2eV?usp=sharing,@students.iiserpune.ac.in
-5,,,,,,,,,(CHM+334)+OR+(CHM334),,@students.iiserpune.ac.in
-6,,,,,,,,,(CHM+351)+OR+(CHM351),,@students.iiserpune.ac.in
+0,chm321,Organic Synthesis I,CHM 321,Organic Synthesis 1 Organic Chemistry (google.com),,,,,(CHM+321)+OR+(CHM321),https://drive.google.com/drive/folders/1bBsbK_o90weJebbVVc6GVlUzEZQ9rvQR?usp=sharing,chm321@students.iiserpune.ac.in
+1,chm322,Transition Metal Chemistry,CHM 322,CHM 322 Chemistry (google.com),,,,,(CHM+322)+OR+(CHM322),https://drive.google.com/drive/folders/1JCNJXhpVtdYDxetDezNMcpLmGUJZg_IH?usp=sharing,chm322@students.iiserpune.ac.in
+2,chm323,Fundamentals of Molecular Spectroscopy,CHM 323,CHM323 Fundamentals of Molecular Spectroscopy (google.com),,,,,(CHM+323)+OR+(CHM323),https://drive.google.com/drive/folders/1ir7hGbtncE2Ur3dLkiDQIeLPLLiW_Euk?usp=sharing,chm323@students.iiserpune.ac.in
+3,chm310,Quantum Chemistry,CHM 310,CHM 310/CHM 620 (google.com),,https://drive.google.com/drive/folders/1jBehGSvzYef11soGQsnQwJAd6SUYUaBJ?usp=sharing,,,(CHM+310)+OR+(CHM310),https://drive.google.com/drive/folders/1OLFSKTS5gbGAUTFCOekq-MWyBdq7-EN5?usp=sharing,chm310@students.iiserpune.ac.in
