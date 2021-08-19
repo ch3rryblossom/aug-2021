@@ -4065,6 +4065,7 @@ input[type="button"].btn-block {
   margin-left: 1.25rem; }
 
 .card-header {
+  position: relative;
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: #1e2037;

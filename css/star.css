@@ -1,0 +1,13 @@
+.stars{
+	position: absolute;
+	width: 10px;
+	right:25px;
+	top:25%;
+	cursor: pointer;
+}
+.star:hover{
+		fill: #ffcf5581 !important;
+		}
+.starselected{
+		fill: #ffcf55 !important;
+		}
